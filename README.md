@@ -1,4 +1,4 @@
-# Calculadora Básica en .NET MAUI — Taller Semana VII
+# Calculadora Básica en .NET MAUI — Taller Semana VIII
 
 **Universidad de las Américas (UDLA)**  
 **Facultad:** FICA  
